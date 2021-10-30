@@ -7,5 +7,5 @@
 # 组件安装
 
 ```shell
-pip install -U service-jaeger 
+pip install -U service-grpc
 ```
